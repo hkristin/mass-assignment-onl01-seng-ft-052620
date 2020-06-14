@@ -19,6 +19,7 @@ wrist_size:, glove_size:, pant_length:, pant_width:)
 @glove_size = glove_size
 @pant_length = pant_length
 @pant_width = pant_width
+end
 
 end
 
